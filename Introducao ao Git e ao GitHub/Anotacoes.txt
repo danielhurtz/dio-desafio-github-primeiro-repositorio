@@ -2,6 +2,6 @@ Link para download do Git
 
 [Git - Downloading Package](https://git-scm.com/download/win)
 
-
-
 O Git Bash e' um terminal extendido para otimizar o uso do Git.
+
+

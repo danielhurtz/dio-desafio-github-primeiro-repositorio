@@ -5,3 +5,5 @@ Repositorio criado para o Desafio de Projetos.
 ## Links uteis
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Git - Doc](https://git-scm.com/docs)
